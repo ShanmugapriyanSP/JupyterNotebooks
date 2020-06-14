@@ -1,0 +1,2 @@
+# Human Activity Prediction
+![data](https://img.shields.io/badge/Datasource-UCI--Repository-blue) ![Algo](https://img.shields.io/badge/Model--Selection-Randomforest-brightgreen)
